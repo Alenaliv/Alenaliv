@@ -18,6 +18,10 @@
 #### [Резюме](https://disk.yandex.ru/i/9ZJy4I0ZEXT8Yw) 
 #### [Удостоверение Школы ИТ Ростелеком](https://disk.yandex.ru/i/mn4yWm4Q5w9t5w)
 
+Навыки:
+функциональное, регрессионное,  кросс-браузерное тестирование, smoke-тесты, exploratory testing, техники тест-дизайна,  ручное тестирование, контроль качества продукта, API, SQL (SELECT, JOIN, агрегации), HTML/CSS, HTTP, Git, Jira, TestRail, Confluence, Miro, Postman, Swagger, DevTools,  UI, Apache Kafka, Git, VS Code, Kibana, Charles, . 
+Базовые навыки автоматизации: Python, Pytest, Selenium, SOAP UI, Android Studio
 
+**Портфолио**
 
 
